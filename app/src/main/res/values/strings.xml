@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidAnimation</string>
+    <string name="txt_label_drawable_animation">Exemplo de Drawable Animation</string>
+    <string name="txt_btn_drawable_animation">Drawable Animation</string>
+    <string name="txt_btn_view_animation">View Animation</string>
+    <string name="txt_btn_agrupar_animation">Group Animation</string>
+    <string name="txt_btn_visaulizar_bug">Visualizar BUG</string>
+    <string name="txt_btn_bug">BUG</string>
+
+    <string name="txt_btn_scale_animation">Scale Animation</string>
+    <string name="txt_btn_rotate_animation">Rotate Animation</string>
+    <string name="txt_btn_alpha_animation">Alpha Animation</string>
+    <string name="txt_btn_translate_animation">Translate Animation</string>
+    <string name="txt_btn_property_animation">Property Animation</string>
+    <string name="txt_btn_simplificado_animation">View Property Animation</string>
+</resources>
